@@ -142,6 +142,5 @@ function calculate() {
 }
 
 ```
-
 ## Output
-![OUTPUT](./cal.png)
+![OUTPUT](./out1.png)
